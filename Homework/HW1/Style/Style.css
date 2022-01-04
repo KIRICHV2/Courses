@@ -7,7 +7,7 @@ body {
 
   background: #ffffff;
 }
-
+/* block 0 - Главная */
 .Block0 {
   background-color: white;
   width: 1600px;
@@ -16,6 +16,9 @@ body {
   /* left: -800px; */
   position: relative;
 }
+
+
+/* Block1 - Logo , Contacts , E-mail, phone */
 
 .colortext {
   color: black;
@@ -121,6 +124,9 @@ body {
   color: #757575;
   text-decoration: none;
 }
+
+
+/* Block2 - Main subject */
 
 .Block2 {
   background-color: #2f303a;
