@@ -1,0 +1,650 @@
+body {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+}
+
+.Block0 {
+  background-color: white;
+  width: 1600px;
+  /* height: 2349px; */
+  /* top: -1175px; */
+  /* left: -800px; */
+  position: relative;
+}
+
+.colortext {
+  color: black;
+}
+.button-WebStudio {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.button-Студия {
+  position: absolute;
+  width: 49px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.button-Портфолио {
+  position: absolute;
+  width: 77px;
+  height: 16px;
+  left: 552px;
+  top: 32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: black;
+  text-decoration: none;
+}
+
+.button-Контакты {
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  left: 679px;
+  top: 32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: black;
+  text-decoration: none;
+}
+
+.button-Email {
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.button-Phone {
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+  text-decoration: none;
+}
+
+.Block2 {
+  background-color: #2f303a;
+  position: absolute;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+}
+
+.Description {
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 200px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: white;
+}
+
+.Order {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 350px;
+
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: white;
+}
+
+.Order_description {
+  position: absolute;
+  width: 136px;
+  height: 30px;
+  left: 33px;
+  top: 9px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: white;
+}
+
+/* <!-- block3 - Benefits to contact us --> */
+
+.Block3 {
+  width: 270px;
+  height: 16px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  top: 774px;
+  color: #212121;
+}
+
+.Внимание_к_деталям {
+  left: 215px;
+  top: 774px;
+  position: absolute;
+}
+.Пунктуальность {
+  left: 515px;
+  top: 774px;
+  position: absolute;
+}
+.Планирование {
+  left: 815px;
+  top: 774px;
+  position: absolute;
+}
+.Современные_технологии {
+  left: 1115px;
+  top: 774px;
+  position: absolute;
+}
+
+/* block4 - Benefits to contact us (in details) */
+
+.Decription1 {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 215px;
+  top: 800px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.Decription2 {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 515px;
+  top: 800px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.Decription3 {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 815px;
+  top: 800px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.Decription4 {
+  position: absolute;
+  width: 270px;
+  height: 75px;
+  left: 1115px;
+  top: 800px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* block5 - What we are doing */
+
+.Title {
+  position: absolute;
+  width: 376px;
+  height: 42px;
+  left: 612px;
+  top: 969px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.Img1 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1061px;
+}
+
+.Img2 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1061px;
+}
+
+.Img3 {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1061px;
+}
+
+/* block6 - Our team */
+
+.Team {
+  position: absolute;
+  width: 264px;
+  height: 42px;
+  left: 668px;
+  top: 1543px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.IgorPic {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 215px;
+  top: 1635px;
+
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.OlgaPic {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 515px;
+  top: 1635px;
+
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.NikolayPic {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 815px;
+  top: 1635px;
+
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.Mikhailpic {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 1115px;
+  top: 1635px;
+
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.Igor {
+  position: absolute;
+  width: 151px;
+  height: 19px;
+  left: 275px;
+  top: 1925px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-decoration: bold;
+
+  color: #212121;
+}
+
+.Olga {
+  position: absolute;
+  width: 109px;
+  height: 19px;
+  left: 596px;
+  top: 1925px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.Nikolay {
+  position: absolute;
+  width: 137px;
+  height: 19px;
+  left: 882px;
+  top: 1925px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.Mikhail {
+  position: absolute;
+  width: 134px;
+  height: 19px;
+  left: 1183px;
+  top: 1925px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.Position1 {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 285px;
+  top: 1954px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.Position2 {
+  position: absolute;
+  width: 147px;
+  height: 19px;
+  left: 577px;
+  top: 1954px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.Position3 {
+  position: absolute;
+  width: 76px;
+  height: 19px;
+  left: 912px;
+  top: 1954px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.Position4 {
+  position: absolute;
+  width: 87px;
+  height: 19px;
+  left: 1207px;
+  top: 1954px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* block7 - Bottom contacts */
+
+.Block7 {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  top: 2097px;
+
+  background: #2f303a;
+}
+
+.colortext1 {
+  color: white;
+}
+
+.Company {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 60px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+
+.Adress {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 111px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+
+.Email {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 141px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+.Phone {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 171px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
